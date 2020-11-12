@@ -9,7 +9,7 @@ setup(
     name="TOPSIS-Yashpal-101803611",
     version="1.0.0",
     description="A Python package implementing TOPSIS technique.",
-    long_description="dcbudhdichegfudhwidhwihdiuhdg7ug3wfdue",
+    long_description=readme(),
     long_description_content_type="text/markdown",
     author="Yashpal",
     author_email="yyashpal_be18@thapar.edu",
