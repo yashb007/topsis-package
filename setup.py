@@ -1,13 +1,13 @@
 from setuptools import setup
 
 def readme():
-    with open('README.txt') as f:
+    with open('README.md') as f:
         README = f.read()
     return README
 
 setup(
     name="TOPSIS-Yashpal-101803611",
-    version="1.0.0",
+    version="2.0.0",
     description="A Python package implementing TOPSIS technique.",
     long_description=readme(),
     long_description_content_type="text/markdown",
